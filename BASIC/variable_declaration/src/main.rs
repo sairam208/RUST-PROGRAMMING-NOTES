@@ -19,6 +19,7 @@ fn main() {
     let name: &str = "Hello, Rust!"; //&str is a string slice(immutable and it points to a sequence of UTF-8 characters)
     println!("The name is: {}", name);
     //Array variable declaration
+    //           [type; size]
     let numbers: [i32; 5] = [1, 2, 3, 4, 5]; //Array of 5 integers
     println!("The numbers are: {:?}", numbers); //{:?} is used to print the array
     //Tuple variable declaration
