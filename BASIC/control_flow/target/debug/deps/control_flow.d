@@ -1,0 +1,5 @@
+G:\EMBEDDED SYSTEM\RUST PROGRAMMING\BASIC\control_flow\target\debug\deps\control_flow.d: src\main.rs
+
+G:\EMBEDDED SYSTEM\RUST PROGRAMMING\BASIC\control_flow\target\debug\deps\control_flow.exe: src\main.rs
+
+src\main.rs:
