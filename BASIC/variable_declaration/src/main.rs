@@ -2,6 +2,9 @@ fn main() {
     //Integer variable declaration
     let x: i32 = 10; //i32 is a 32-bit signed integer
     println!("The value of x is: {}", x);
+    //Unsigned integer variable declaration
+    let u: u32 = 15; //u32 is a 32-bit unsigned integer
+    println!("The value of u is: {}", u);
     //Floating point variable declaration
     let y: f64 = 20.5; //f64 is a 64-bit floating point
     println!("The value of y is: {}", y);
