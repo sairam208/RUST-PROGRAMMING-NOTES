@@ -16,7 +16,10 @@ fn main() {
     print!("\n");
     //Using list 
     println!("For loop using list");
-    
+    //The difference b2w list and array is that list is fixed size and array is dynamic size
+    // array is also fixed size in rust but we can use vectors for dynamic size
+    //Vectors are heap allocated while arrays are stack allocated
+    //vectors can grow and shrink in size while arrays have a fixed size
     let list=[1,2,3,4,5,6,7];
     for i in list{
         print!("{}",i);
